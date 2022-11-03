@@ -1,0 +1,2 @@
+files: account.txt bank.py cons_file_manage.py file_bank.py hist.txt listdir.txt  rd.py 
+dirs: .idea __pycache__ venv 
